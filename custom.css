@@ -1,0 +1,14 @@
+.dataframe th{
+  font-size: 50%;
+  text-align:center;
+  font-weight:bold;
+  color:#6d6d6d;
+  background-color: #f7f7f9
+}
+.dataframe td{
+  font-size: 50%;
+  text-align:center;
+  font-weight:bold;
+  color:#6d6d6d;
+  background-color: #f7f7f9
+}
